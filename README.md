@@ -24,16 +24,15 @@
 
 ---
 
-### 🚀 About
+### About
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF">
 </p>
 
-- 🎓 Graduado em **Sistemas para Internet** pela Faculdade do Comércio
+- 🎓 Degree **Web development** at Faculdade do Comércio
 - 🎓 Rocketseat One, formação fullstack, PHP, soft skills
-- 🧠 Sempre aprendendo e evoluindo  
-- 🛠️ Trabalho no setor de **TI de uma faculdade**
+- 🛠️ Working at IT at **faculdade**
 - 🐱 Amo gatos
 - 🎯 Objetivo: Melhorar minhas habilidades no desenvolvimento e arquitetura de sofware
 - 🌱 Atualmente estudando **Clean Code**, **estruturas MVC**, e **boas práticas de código**
@@ -41,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emerson25k5&show_icons=true&theme=radical" alt="Emersão GitHub Stats" />
@@ -51,13 +50,13 @@
 
 ---
 
-  ### 📚 Currently learning:
+  ### Currently learning:
 - PHP avançado (com orientação a objetos e MVC)
 - SQL e modelagem de dados
 - JavaScript e manipulação de DOM
 - Python
 
-### 📬 Contato
+### Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
