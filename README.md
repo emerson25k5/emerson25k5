@@ -9,4 +9,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emerson25k5&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+<p>
+  <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF"
+</p>
+
 
