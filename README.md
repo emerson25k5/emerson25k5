@@ -1,5 +1,5 @@
 <p>
-  <h1>Hi there! I'm Emerson 👋 <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF"></h1>
+  <h1 align="center">Hi there! I'm Emerson 👋 <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF"></h1>
 </p>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
