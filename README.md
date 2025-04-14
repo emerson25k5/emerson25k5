@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF">
@@ -51,7 +51,7 @@
 
 ---
 
-  ### 📚 Atualmente estudando:
+  ### 📚 Currently learning:
 - PHP avançado (com orientação a objetos e MVC)
 - SQL e modelagem de dados
 - JavaScript e manipulação de DOM
