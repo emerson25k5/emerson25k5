@@ -1,5 +1,10 @@
 <h1 align="center">Hi there! I'm Emerson 👋 </h1>
 
+<p align="center">
+  Desenvolvedor apaixonado por PHP, backend, boas práticas e gatos 😸 <br>
+  Atualmente trabalhando no setor de TI de uma faculdade e estudando para me tornar um engenheiro de software de alto nível.
+</p>
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
