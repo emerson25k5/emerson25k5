@@ -26,14 +26,14 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Formado em **Sistemas para Internet**  
-- 🧠 Sempre aprendendo e evoluindo como **Desenvolvedor PHP e MySQL**  
+- 🎓 Graduado em **Sistemas para Internet** pela Faculdade do Comércio
+- 🎓 Rocketseat One, formação fullstack, PHP, soft skills
+- 🧠 Sempre aprendendo e evoluindo  
 - 🛠️ Trabalho no setor de **TI de uma faculdade**
-- 🐱 Amo gatos (inclusive tenho o Bill 😸)
-- 🎧 Fã do **Michael Jackson**
-- 🎯 Objetivo: Me tornar um **excelente engenheiro de software**
+- 🐱 Amo gatos
+- 🎯 Objetivo: Melhorar minhas habilidades no desenvolvimento e arquitetura de sofware
 - 🌱 Atualmente estudando **Clean Code**, **estruturas MVC**, e **boas práticas de código**
-- 📘 Também estou aprendendo **JavaScript** e **Go** por curiosidade e crescimento profissional
+- 📘 Também estou aprendendo **JavaScript** e **Python** por curiosidade e crescimento profissional
 
 ---
 
