@@ -43,9 +43,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emerson25k5&show_icons=true&theme=radical" alt="Emersão GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson25k5&layout=compact&theme=radical" alt="Emersão Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=emerson25k5&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Emersão Streak Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emerson25k5&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson25k5&layout=compact&theme=github_dark" />
 </p>
 
 ---
