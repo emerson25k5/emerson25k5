@@ -1,5 +1,5 @@
 <p>
-  # Hi there! I'm Emerson 👋
+  <h1>Hi there! I'm Emerson 👋</h1>
   <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF"
 </p>
 
