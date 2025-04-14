@@ -11,7 +11,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emerson25k5&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-<div flex>
+<div>
   ### 📚 Atualmente estudando:
 - PHP avançado (com orientação a objetos e MVC)
 - SQL e modelagem de dados
