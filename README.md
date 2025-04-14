@@ -11,6 +11,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emerson25k5&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
+![Profile views](https://komarev.com/ghpvc/?username=emerson25k5&color=blue&style=flat)
+
+
 
 
 
