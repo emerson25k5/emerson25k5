@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠 Tecnologias que uso no dia a dia
+### Stacks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
