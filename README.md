@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center">Hi there! I'm Emerson 👋 <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF"></h1>
+  <h1 align="center">Hi there! I'm Emerson 👋 </h1>
 </p>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -11,8 +11,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emerson25k5&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-### 📚 Atualmente estudando:
+<div flex>
+  ### 📚 Atualmente estudando:
 - PHP avançado (com orientação a objetos e MVC)
 - SQL e modelagem de dados
 - JavaScript e manipulação de DOM
 - Python
+
+<img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF">
+
+</div>
