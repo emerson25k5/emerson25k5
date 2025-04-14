@@ -41,7 +41,6 @@
 ---
 
 ### GitHub Stats
-![Emersão's GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson25k5&show_icons=true&theme=default&count_private=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emerson25k5&theme=github_dark&row=1&no-frame=true" />
