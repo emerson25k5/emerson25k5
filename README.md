@@ -26,6 +26,10 @@
 
 ### 🚀 Sobre mim
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF">
+</p>
+
 - 🎓 Graduado em **Sistemas para Internet** pela Faculdade do Comércio
 - 🎓 Rocketseat One, formação fullstack, PHP, soft skills
 - 🧠 Sempre aprendendo e evoluindo  
@@ -60,7 +64,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/seuuser)
 
 ---
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF">
-</p>
+
 
