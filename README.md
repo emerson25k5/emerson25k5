@@ -43,7 +43,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emerson25k5&theme=github_dark&row=1&no-frame=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emerson25k5&show_icons=true&theme=github_dark&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson25k5&layout=compact&theme=github_dark" />
 </p>
