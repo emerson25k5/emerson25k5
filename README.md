@@ -1,6 +1,4 @@
-<p>
-  <h1 align="center">Hi there! I'm Emerson 👋 </h1>
-</p>
+<h1 align="center">Hi there! I'm Emerson 👋 </h1>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,5 +14,11 @@
 - SQL e modelagem de dados
 - JavaScript e manipulação de DOM
 - Python
+
+### 📬 Contato
+
+[![Instagram](https://img.shields.io/badge/-@melb_be-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/melb_be/)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
 
 <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF">
