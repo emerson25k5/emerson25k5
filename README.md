@@ -17,8 +17,8 @@
 
 ### 📬 Contato
 
-[![Instagram](https://img.shields.io/badge/-@melb_be-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/melb_be/)
-[![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@emerson25k5-E4405F?style=flat-square&logo=Instagram&logoColor=black)](https://www.instagram.com/emerson25k5/)
+[![Email](https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:emerson25k5@gmail.com)
 
 
 <img src="https://github.com/user-attachments/assets/1beeded3-9f85-4d99-a7cf-c5db1b3eaa44" alt="gato preto GIF">
