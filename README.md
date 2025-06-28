@@ -47,7 +47,7 @@
 ### GitHub Stats
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson25k5)]
+![Emerson25k5's GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson25k5&hide=contribs,prs)
 </p>
 
 ---
