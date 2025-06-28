@@ -47,8 +47,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emerson25k5&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerson25k5&layout=compact&theme=github_dark" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emerson25k5)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
